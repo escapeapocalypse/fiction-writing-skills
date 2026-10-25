@@ -4,7 +4,7 @@ Turn Gemini into a scene-writing partner for mature fiction and fanfiction (adul
 
 ## Quick Start
 
-1. **[Download Writing-Assistant.zip](Writing-Assistant.zip?raw=true)** and DON'T unzip it.
+1. **[Download Writing-Assistant.zip]** and DON'T unzip it.
 2. Open the **Skills** section in Gemini and drag in the ZIP file you just downloaded, and it should upload without issues and be ready for use!
 3. Try it:
 
